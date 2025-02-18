@@ -27,10 +27,6 @@ ul {
     background-color: #000;
 }
 
-/* .reviews__item.reviews__item--hide {
-    display: none;
-} */
-
 .title {
     text-align: center;
     margin-bottom: 60px;
@@ -52,7 +48,6 @@ body {
     font-weight: 300px;
     line-height: normal;
     font-family: "Cormorant", serif;
-    /* font-family: "Open Sans", sans-serif; */
 }
 
 .header__inner {
